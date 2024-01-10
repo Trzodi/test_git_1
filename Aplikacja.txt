@@ -7,5 +7,10 @@
    public void logowanieGoogle() {
         System.out.println("Podaj email");
         System.out.println("Podaj hasło");
-        System.out.println("Kliknij na przycisk zaloguj Google");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+    public void logowanieMicrosoft() {
+        System.out.println("Podaj login Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
     }
